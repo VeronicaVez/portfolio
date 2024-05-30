@@ -1,0 +1,45 @@
+.fixed{
+    position: fixed;
+    z-index: var(--z-fixed);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0px;
+    border: 1px solid white;
+    background-color: black;
+    width: 100%;
+}
+
+.Navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.text{
+    text-decoration: none;
+    color: white;
+    padding: 0px 8px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.text:hover {
+    font-size:1.4rem;
+}
+
+@media screen and (min-width: 768px) {
+    .Navbar {
+        padding: 20px;
+    }
+
+    .text {
+        padding: 0px 30px;
+        font-size: 1.8rem;
+    }
+
+    .text:hover{
+        font-size: 2rem;
+    }
+}

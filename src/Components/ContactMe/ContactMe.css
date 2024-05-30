@@ -1,0 +1,24 @@
+.contactme {
+    padding: 50px 0px;
+}
+
+.contact-style{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact-card{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid white;
+    padding: 20px;
+    margin: 20px;
+    margin-bottom: 40px;
+    width: 30%;
+}
+
+.contact-card:hover{
+    font-size: 1.1rem;
+}

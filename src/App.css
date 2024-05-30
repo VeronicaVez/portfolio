@@ -1,0 +1,13 @@
+.App{
+    background-color: black;
+    margin: -10px;
+    padding: 20px;
+    font-family: "Poppins", sans-serif;
+    color: white;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
