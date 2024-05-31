@@ -1,5 +1,7 @@
 import "./Home.css"
 
+import "./Home.css"
+
 const Home = () => {
   return (
     <div className="Home" id="home">
@@ -26,6 +28,7 @@ const Home = () => {
           <rect x="5" y="10" width="150" height="10" fill="url(#grad2)" />
         </svg>
       </div>
+
       <div className="animation">
         <svg width="270" height="20">
           <defs>
@@ -49,6 +52,7 @@ const Home = () => {
           <rect x="10" y="10" width="180" height="10" fill="url(#grad4)" />
         </svg>
       </div>
+
       <div className="animation2">
         <svg width="120" height="20">
           <rect x="10" y="10" width="100" height="10" fill="url(#grad2)" />
@@ -66,6 +70,7 @@ const Home = () => {
           <rect x="10" y="10" width="250" height="10" fill="url(#grad3)" />
         </svg>
       </div>
+
       <div className="animation3">
         <svg width="275" height="20">
           <rect x="10" y="10" width="250" height="10" fill="url(#grad4)" />
@@ -108,6 +113,18 @@ const Home = () => {
       </div>
 
       <div className="animation">
+        <svg width="170" height="20">
+          <rect x="10" y="10" width="150" height="10" fill="url(#grad4)" />
+        </svg>
+        <svg width="7.5" height="7.5">
+          <circle cx="2" cy="2" r="2" fill="white" />
+        </svg>
+        <svg width="190" height="20">
+          <rect x="10" y="10" width="180" height="10" fill="url(#grad3)" />
+        </svg>
+      </div>
+
+      <div className="animation2">
         <svg width="120" height="20">
           <rect x="10" y="10" width="100" height="10" fill="url(#grad1)" />
         </svg>
