@@ -30,8 +30,8 @@ padding: 10px 30px;
         }
     }
 
-                @media screen and (min-width: 332px) {
-                    .animation3 {
-                        display: none;
-                    }
-                }
+    @media screen and (max-width: 414px) {
+        .animation3 {
+            display: none;
+        }
+    }
