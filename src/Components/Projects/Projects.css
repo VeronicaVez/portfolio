@@ -31,20 +31,21 @@
     font-size: 0.8rem;
 }
 
-.flex{
-    display: flex;
-    justify-content: space-between;
-    height:50%
-}
-
-.projects-cards{
-    width: 50%;
-}
-
 article{
     padding: 20px;
 }
 
 .repo-demo a{
     margin-right: 10px;
+}
+
+@media screen and (min-width: 768px) {
+    .flex {
+            display: flex;
+            justify-content: space-between;
+            height: 50%
+        }
+                .projects-cards {
+                    width: 50%;
+                }
 }
