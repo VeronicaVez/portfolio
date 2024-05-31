@@ -16,7 +16,7 @@ function App() {
       <Contactme />
       <div className="footer">
         <footer>
-          Veronica Vezzoli &copy; 2024 - made with{" "}
+          &copy; 2024 Veronica Vezzoli - made with{" "}
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="16"

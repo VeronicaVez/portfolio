@@ -4,14 +4,14 @@ const Home = () => {
   return (
     <div className="Home" id="home">
       <div className="animation2">
-        <svg width="215" height="20">
+        <svg width="220" height="20">
           <defs>
             <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
               <stop offset="1%" stop-color="#6A5495" stop-opacity="1" />
               <stop offset="100%" stop-color="#ED5EDD" stop-opacity="1" />
             </linearGradient>
           </defs>
-          <rect x="5" y="10" width="200" height="10" fill="url(#grad1)" />
+          <rect x="10" y="10" width="200" height="10" fill="url(#grad1)" />
         </svg>
         <svg width="7.5" height="7.5">
           <circle cx="2" cy="2" r="2" fill="white" />
@@ -66,6 +66,23 @@ const Home = () => {
           <rect x="10" y="10" width="250" height="10" fill="url(#grad3)" />
         </svg>
       </div>
+      <div className="animation3">
+        <svg width="275" height="20">
+          <rect x="10" y="10" width="250" height="10" fill="url(#grad4)" />
+        </svg>
+        <svg width="7.5" height="7.5">
+          <circle cx="2" cy="2" r="2" fill="white" />
+        </svg>
+        <svg width="220" height="20">
+          <rect x="10" y="10" width="200" height="10" fill="url(#grad2)" />
+        </svg>
+        <svg width="7.5" height="7.5">
+          <circle cx="2" cy="2" r="2" fill="white" />
+        </svg>
+        <svg width="230" height="20">
+          <rect x="10" y="10" width="220" height="10" fill="url(#grad1)" />
+        </svg>
+      </div>
       <div className="animation">
         <h1>Veronica Vezzoli</h1>
         <h2>Web Developer</h2>
@@ -77,8 +94,11 @@ const Home = () => {
         <svg width="7.5" height="7.5">
           <circle cx="2" cy="2" r="2" fill="white" />
         </svg>
-        <svg width="210" height="20">
+        <svg width="215" height="20">
           <rect x="5" y="10" width="200" height="10" fill="url(#grad1)" />
+        </svg>
+        <svg width="7.5" height="7.5">
+          <circle cx="2" cy="2" r="2" fill="white" />
         </svg>
         <svg width="160" height="20">
           <rect x="5" y="10" width="150" height="10" fill="url(#grad2)" />

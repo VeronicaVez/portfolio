@@ -19,11 +19,11 @@ const Aboutme = () => {
       </h2>
       <p>
         I am a Web Developer with a background in the Hospitality Industry.
-        After completing an intensive web development boot camp, I gained
-        proficiency in HTML, CSS, JavaScript, and React. My experiences have
-        honed my communication, teamwork, and problem-solving skills. I am
-        passionate about creating dynamic and responsive web applications and am
-        eager to apply my knowledge in a stimulating work environment.
+        After completing a web development boot camp, I gained strong abilities
+        in HTML, CSS, JavaScript, and React.js. My experiences have improved my
+        communication, teamwork, and problem-solving skills. I am passionate
+        about creating dynamic and responsive web applications and am eager to
+        apply my knowledge while continuing to learn more.
       </p>
     </div>
   )

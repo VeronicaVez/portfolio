@@ -1,15 +1,14 @@
 .projects {
-    padding: 50px 0px;
+    padding: 50px 20px;
 }
 
 .projects-cards{
     border: 1px solid white;
     margin: 10px;
-    height: 30vh;
 }
 
 .projects-cards.game2{
-    background: linear-gradient(#ED5EDD, #6A5495)
+    background: linear-gradient(#8BE8E5, #A084E8)
 }
 
 .projects-cards.travels {
@@ -21,7 +20,7 @@
 }
 
 .projects-cards.game1 {
-    background: linear-gradient(#8BE8E5, #A084E8)
+    background: linear-gradient(#ED5EDD, #6A5495)
 }
 
 .projects-cards.game1:hover, .game2:hover, .travels:hover, .books:hover{
@@ -35,6 +34,7 @@
 .flex{
     display: flex;
     justify-content: space-between;
+    height:50%
 }
 
 .projects-cards{
@@ -43,4 +43,8 @@
 
 article{
     padding: 20px;
+}
+
+.repo-demo a{
+    margin-right: 10px;
 }
