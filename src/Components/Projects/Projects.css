@@ -23,7 +23,11 @@
     background: linear-gradient(#ED5EDD, #6A5495)
 }
 
-.projects-cards.game1:hover, .game2:hover, .travels:hover, .books:hover{
+.projects-cards.weather {
+    background: linear-gradient(#FA9494, #D2001A)
+}
+
+.projects-cards.game1:hover, .game2:hover, .travels:hover, .books:hover, .weather:hover{
     background:transparent
 }
 
