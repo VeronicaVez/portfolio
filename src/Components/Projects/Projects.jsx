@@ -5,7 +5,7 @@ const Projects = () => {
     <div className="projects" id="projects">
       <h2>Projects</h2>
       <div className="flex">
-        <article className="projects-cards weather">
+        {/* <article className="projects-cards weather">
           <h3>Weather App</h3>
           <p className="project-description">
             An easy-to-use app with real-time weather updates and accurate
@@ -44,7 +44,7 @@ const Projects = () => {
               </svg>
             </a>
           </div>
-        </article>
+        </article> */}
         <article className="projects-cards game2">
           <h3>Scissors Rock Paper Lizard Spock</h3>
           <p className="project-description">
