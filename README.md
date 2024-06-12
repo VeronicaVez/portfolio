@@ -1,8 +1,11 @@
-# React + Vite
+# Veronica Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio repository! Inside, you'll find the source code for my portfolio website.  🚀
 
-Currently, two official plugins are available:
+# About me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I am a Web Developer with a background in the Hospitality Industry. After completing a web development boot camp, I gained strong abilities in HTML, CSS, JavaScript, and React.js. My experiences have improved my communication, teamwork, and problem-solving skills. I am passionate about creating dynamic and responsive web applications and am eager to apply my knowledge while continuing to learn more.
+
+# Demo
+
+Check [here](https://veronicavezzoli.netlify.app/) the portfolio with my projects.
