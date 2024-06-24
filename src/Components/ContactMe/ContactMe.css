@@ -29,14 +29,18 @@
         text-decoration: none;
         color: white;
         font-size: 0.8rem;
-        width:30%
+        width:50%;
     }
 
     .contact-card:hover {
-        font-size: 1rem;
+        font-weight: 600;
     }
 
     .contact {
         display: flex;
+    }
+
+    .contact svg{
+        margin-right: 10px;;
     }
 }
