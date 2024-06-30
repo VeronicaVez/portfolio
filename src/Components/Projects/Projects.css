@@ -27,7 +27,11 @@
     background: linear-gradient(#FA9494, #D2001A)
 }
 
-.projects-cards.game1:hover, .game2:hover, .travels:hover, .books:hover, .weather:hover{
+.projects-cards.ecommerce {
+    background: linear-gradient(#FB9AD1, #DA0C81)
+}
+
+.projects-cards.game1:hover, .game2:hover, .travels:hover, .books:hover, .weather:hover, .ecommerce:hover{
     background:transparent
 }
 
