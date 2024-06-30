@@ -8,4 +8,4 @@ I am a Web Developer with a background in the Hospitality Industry. After comple
 
 # Demo
 
-Check [here](https://veronicavezzoli.netlify.app/) the portfolio with my projects.
+Check [here](https://veronicavezzoli.netlify.app/) to see the portfolio with my projects.
