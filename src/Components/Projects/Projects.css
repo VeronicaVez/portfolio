@@ -24,12 +24,14 @@
 }
 
 .projects-cards.weather {
-    background: linear-gradient(#FA9494, #D2001A)
+    background: linear-gradient(#F53F3F, #9C1174)
 }
 
 .projects-cards.ecommerce {
-    background: linear-gradient(#FB9AD1, #DA0C81)
+    background: linear-gradient(#F21EAA, #EE7ABC)
 }
+
+/* (#80C490, #2CB9BE) */
 
 .projects-cards.game1:hover, .game2:hover, .travels:hover, .books:hover, .weather:hover, .ecommerce:hover{
     background:transparent
